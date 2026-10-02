@@ -7,7 +7,7 @@ Aplicación de ventas para Windows con CRUD de **clientes, productos y pedidos**
 - Frontend: Vue 3, Vue Router, Axios y Vite.
 - Backend: Flask, Flask-SQLAlchemy, Flask-Migrate y Flask-CORS.
 - Base de datos de desarrollo: SQLite.
-- Pruebas: pytest.
+- Pruebas: python -m pytest.
 
 ## Estructura
 
